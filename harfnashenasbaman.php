@@ -8,7 +8,7 @@ Channel ID : @sourceiran
 Github Addres : github.com/NobLestDev/harfnashenasbeman
 ─═ঊঈঊঈ═─╯
 */
-define('API_KEY','توکن');
+define('API_KEY','1483860038:AAFWo2owQlmhrS34_AI0DJxcyW5P0oPXvqo');
 //-----------------------------------------------------------------------------------------
 //فانکشن MrPHPBot :
 function MrPHPBot($method,$datas=[]){
